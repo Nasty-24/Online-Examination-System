@@ -1,0 +1,21 @@
+.bg{
+    background-image: url("images/public-examination-preparation-concept.jpg");
+    align-content: center;
+    height: 100vh;
+    text-align: center;
+
+}
+
+
+.init{
+    align-content: center;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.tr{
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
